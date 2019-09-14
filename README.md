@@ -1,4 +1,4 @@
-# kubernetes_liferay
+# kubernete liferay
 This project is buid and tested using kuberentes release of AWS, through EKS services. and using postgres.
 
 ## Version
