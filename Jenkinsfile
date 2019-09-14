@@ -7,7 +7,6 @@ def label = "jenkins-slave-${UUID.randomUUID().toString()}"
 
 podTemplate(
    label: label,    
-   serviceAccount: "build",
    yaml: """
 
 apiVersion: v1
